@@ -1,6 +1,6 @@
 aaaaaa
 bbbbbb
-commit to github success!
+to github success!
 
 cccccc
 dddddd
